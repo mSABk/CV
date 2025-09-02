@@ -19,6 +19,7 @@ Artiste 3D expérimenté et aspirant data scientist, spécialisé dans le rendu 
 **Graphic Design** : Affinity suite  
 
 **Data Analytics** :  SQL, R
+
 **Data-Visualization Tools** : Tableau,  R (ggplot2)
 
 
