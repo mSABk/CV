@@ -72,7 +72,4 @@ https://coursera.org/share/76f3af9efed0160cc4d937c8a85ef459
 
 ---
 
-## 🔗 Links
-- [Portfolio on Behance](https://www.behance.net/ALGERIE3D)  
-- [GitHub Profile](https://github.com/your-username) *(optional)*  
-- [LinkedIn Profile](https://linkedin.com/in/your-profile) *(optional)*  
+
