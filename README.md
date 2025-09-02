@@ -6,8 +6,9 @@
 ---
 
 ## 🎯 Profile
-  
+
 Artiste 3D expérimenté et aspirant data scientist, spécialisé dans le rendu architectural, la présentation technique et la data-visualisation. Fort de plus de 10 ans d’expérience en animation 3D, motion design et post-production vidéo, Je transforme des projets techniques complexes en présentations visuelles claires, attractives et accessibles au public.  
+
 ---
 
 ## 🛠️ Skills
